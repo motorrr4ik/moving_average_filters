@@ -28,4 +28,4 @@ plt.legend()
 plt.show()
 ```
 #### Result
-![Result image](/Users/nikitapopov/Documents)
+![Result image](https://drive.google.com/file/d/1cPxS0DiJEh2Uw36pw0nZfkDtItbzn3zO/view?usp=sharing)
