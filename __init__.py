@@ -1,0 +1,3 @@
+from .exponential_moving_average import exponential_moving_avereage
+from .moving_average import moving_average
+from .weighted_moving_average import weighted_moving_average 
