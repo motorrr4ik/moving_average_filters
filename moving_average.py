@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-def moving_average(data, smooth_interval):
+def moving_average(data, smooth_interval=2):
     sum = 0
     new_data = np.zeros(len(data))
     for i in range(len(data)-smooth_interval):
