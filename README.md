@@ -28,4 +28,4 @@ plt.legend()
 plt.show()
 ```
 #### Result
-![Result image](https://ibb.co/k9xFY2V)
+![Result image](https://i.yapx.ru/O6Jqe.png)
